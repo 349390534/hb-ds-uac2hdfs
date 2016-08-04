@@ -1,0 +1,36 @@
+<assembly>
+  <id>bin</id>
+  <formats>
+    <format>zip</format>
+  </formats>
+  <dependencySets>
+    <dependencySet>
+      <useProjectArtifact>true</useProjectArtifact>
+      <outputDirectory>\lib</outputDirectory>
+    </dependencySet>
+  </dependencySets>
+  <fileSets>
+   <!--  <fileSet>
+      <outputDirectory>/</outputDirectory>
+      <includes>
+        <include>README</include>
+      </includes>
+    </fileSet> -->
+    <!-- <fileSet>
+      <directory>src/main/resource</directory>
+      <outputDirectory>/config</outputDirectory>
+      <includes>
+        <include>run.sh</include>
+        <include>run.bat</include>
+      </includes>
+    </fileSet> -->
+    <fileSet>
+       <directory>${project.basedir}\src\main\resources</directory>
+       <outputDirectory>\config</outputDirectory>
+   </fileSet>
+   <fileSet>
+       <directory>${project.basedir}\src\bin</directory>
+       <outputDirectory>\bin</outputDirectory>
+   </fileSet>
+  </fileSets>
+</assembly>

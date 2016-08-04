@@ -1,0 +1,67 @@
+Manifest-Version: 1.0
+Built-By: qiankun.li
+Class-Path: lib/howbuy-hadoop-1.1.0-SNAPSHOT.jar lib/spring-2.5.6.SEC0
+ 3.jar lib/quartz-1.8.6.jar lib/commons-cli-1.2.jar lib/commons-config
+ uration-1.6.jar lib/commons-collections-3.2.1.jar lib/commons-digeste
+ r-1.8.jar lib/commons-beanutils-core-1.8.0.jar lib/high-scale-lib-1.1
+ .1.jar lib/commons-codec-1.4.jar lib/commons-httpclient-3.1.jar lib/c
+ ommons-io-2.1.jar lib/commons-lang-2.5.jar lib/commons-logging-1.1.1.
+ jar lib/log4j-1.2.16.jar lib/avro-1.5.3.jar lib/jackson-mapper-asl-1.
+ 7.3.jar lib/snappy-java-1.0.3.2.jar lib/avro-ipc-1.5.3.jar lib/jetty-
+ 6.1.26.jar lib/servlet-api-2.5-20081211.jar lib/netty-3.2.4.Final.jar
+  lib/velocity-1.7.jar lib/slf4j-log4j12-1.7.2.jar lib/slf4j-api-1.7.2
+ .jar lib/json-lib-2.2.3-jdk15.jar lib/commons-beanutils-1.7.0.jar lib
+ /ezmorph-1.0.6.jar lib/hbase-0.94.2-cdh4.2.0.jar lib/metrics-core-2.1
+ .2.jar lib/guava-11.0.2.jar lib/jsr305-1.3.9.jar lib/zookeeper-3.4.5-
+ cdh4.2.0.jar lib/libthrift-0.9.0.jar lib/httpclient-4.1.3.jar lib/htt
+ pcore-4.1.3.jar lib/jruby-complete-1.6.5.jar lib/jetty-util-6.1.26.cl
+ oudera.2.jar lib/jsp-2.1-6.1.14.jar lib/jsp-api-2.1-6.1.14.jar lib/se
+ rvlet-api-2.5-6.1.14.jar lib/jackson-core-asl-1.8.8.jar lib/jackson-j
+ axrs-1.8.8.jar lib/jackson-xc-1.8.8.jar lib/jasper-compiler-5.5.23.ja
+ r lib/jasper-runtime-5.5.23.jar lib/commons-el-1.0.jar lib/jamon-runt
+ ime-2.3.1.jar lib/protobuf-java-2.4.0a.jar lib/jersey-core-1.8.jar li
+ b/jersey-json-1.8.jar lib/jettison-1.1.jar lib/jaxb-impl-2.2.3-1.jar 
+ lib/jersey-server-1.8.jar lib/asm-3.1.jar lib/jaxb-api-2.1.jar lib/ac
+ tivation-1.1.jar lib/stax-api-1.0.1.jar lib/hadoop-client-2.0.0-cdh4.
+ 2.0.jar lib/hadoop-common-2.0.0-cdh4.2.0.jar lib/hadoop-annotations-2
+ .0.0-cdh4.2.0.jar lib/commons-math-2.1.jar lib/xmlenc-0.52.jar lib/co
+ mmons-net-3.1.jar lib/junit-4.8.2.jar lib/mockito-all-1.8.5.jar lib/h
+ adoop-auth-2.0.0-cdh4.2.0.jar lib/jsch-0.1.42.jar lib/hadoop-hdfs-2.0
+ .0-cdh4.2.0.jar lib/hadoop-mapreduce-client-app-2.0.0-cdh4.2.0.jar li
+ b/hadoop-mapreduce-client-shuffle-2.0.0-cdh4.2.0.jar lib/hadoop-yarn-
+ api-2.0.0-cdh4.2.0.jar lib/hadoop-mapreduce-client-core-2.0.0-cdh4.2.
+ 0.jar lib/hadoop-yarn-common-2.0.0-cdh4.2.0.jar lib/hadoop-mapreduce-
+ client-jobclient-2.0.0-cdh4.2.0.jar lib/hive-common-0.10.0-cdh4.2.0.j
+ ar lib/hive-shims-0.10.0-cdh4.2.0.jar lib/commons-compress-1.4.1.jar 
+ lib/xz-1.0.jar lib/commons-logging-api-1.1.jar lib/hive-jdbc-0.10.0-c
+ dh4.2.0.jar lib/hive-service-0.10.0-cdh4.2.0.jar lib/hive-exec-0.10.0
+ -cdh4.2.0.jar lib/hive-metastore-0.10.0-cdh4.2.0.jar lib/hive-serde-0
+ .10.0-cdh4.2.0.jar lib/commons-dbcp-1.4.jar lib/commons-pool-1.5.4.ja
+ r lib/jdo2-api-2.3-ec.jar lib/hive-contrib-0.10.0-cdh4.2.0.jar lib/an
+ tlr-3.4.jar lib/ST4-4.0.4.jar lib/antlr-runtime-3.4.jar lib/stringtem
+ plate-3.2.1.jar lib/antlr-2.7.7.jar lib/json-20090211.jar lib/derby-1
+ 0.6.1.0.jar lib/JavaEWAH-0.3.2.jar lib/datanucleus-connectionpool-2.0
+ .3.jar lib/datanucleus-core-2.0.3.jar lib/datanucleus-enhancer-2.0.3.
+ jar lib/datanucleus-rdbms-2.0.3.jar lib/haivvreo-1.0.7-cdh-4.jar lib/
+ libfb303-0.9.0.jar lib/sqlline-1_0_2.jar lib/ojdbc14-1.0.0.jar lib/ib
+ atis-sqlmap-2.3.4.726.jar lib/dozer-5.3.2.jar lib/kafka_2.10-0.8.0.ja
+ r lib/scala-library-2.10.1.jar lib/scala-compiler-2.10.1.jar lib/scal
+ a-reflect-2.10.1.jar lib/zkclient-0.3.jar lib/metrics-annotation-2.2.
+ 0.jar lib/sqoop-1.4.2-cdh4.2.0.jar lib/hadoop-mapreduce-client-common
+ -2.0.0-cdh4.2.0.jar lib/hadoop-yarn-client-2.0.0-cdh4.2.0.jar lib/gui
+ ce-3.0.jar lib/javax.inject-1.jar lib/aopalliance-1.0.jar lib/jersey-
+ test-framework-grizzly2-1.8.jar lib/jersey-test-framework-core-1.8.ja
+ r lib/javax.servlet-3.0.jar lib/jersey-client-1.8.jar lib/jersey-griz
+ zly2-1.8.jar lib/grizzly-http-2.1.1.jar lib/grizzly-framework-2.1.1.j
+ ar lib/gmbal-api-only-3.0.0-b023.jar lib/management-api-3.0.0-b012.ja
+ r lib/grizzly-http-server-2.1.1.jar lib/grizzly-rcm-2.1.1.jar lib/gri
+ zzly-http-servlet-2.1.1.jar lib/grizzly-framework-2.1.1-tests.jar lib
+ /jersey-guice-1.8.jar lib/hadoop-yarn-server-common-2.0.0-cdh4.2.0.ja
+ r lib/guice-servlet-3.0.jar lib/hsqldb-1.8.0.10.jar lib/ant-contrib-1
+ .0b3.jar lib/ant-1.5.jar lib/avro-mapred-1.7.3.jar lib/avro-ipc-1.7.3
+ -tests.jar lib/netty-3.4.0.Final.jar lib/mysql-connector-java-5.1.34.
+ jar lib/jasper-compiler-jdt-5.5.23.jar lib/core-3.1.1.jar
+Build-Jdk: 1.8.0_05
+Created-By: Maven Integration for Eclipse
+Main-Class: com.howbuy.com.kafka.KafkaConsumer
+
